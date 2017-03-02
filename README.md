@@ -1,4 +1,4 @@
-Udacity Full-Stack Nanodegree: SQLAlchemy practice
+# Udacity Full-Stack Nanodegree: SQLAlchemy practice #
 
 Using SQLAlchemy perform the following queries on your database:
 
